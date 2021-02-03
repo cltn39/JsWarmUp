@@ -11,23 +11,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/cltn39/ERDB/edit/main/README.md">
-    <img src="./erbd/public/logo-white.png" alt="Eternal Return Logo" width="300" height="150">
+  <a href="https://github.com/cltn39/JsWarmUp/edit/main/README.md">
+    <img src="https://wptavern.com/wp-content/uploads/2017/01/javascript30.png" alt="Eternal Return Logo" width="300" height="150">
   </a>
 
-  <h2 align="center">Eternal Return: Black Survival stat database</h2>
+  <h2 align="center">30 JavaScript Excerise</h2>
 
   <p align="center">
-    Search player history, rank and more!
+    1 excercise a day for 30 days. Warm up and learn more about JavaScript!
     <br />
-    <a href="https://github.com/cltn39/ERDB"><strong>Explore the docs »</strong></a>
+    <a href="https://javascript30.com/"><strong>Originally created by Wes Bos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cltn39/ERDB">View Demo</a>
+    <a href="https://github.com/cltn39/JsWarmUp">View Demo</a>
     ·
-    <a href="https://github.com/cltn39/ERDB">Report Bug</a>
+    <a href="https://github.com/cltn39/JsWarmUp">Report Bug</a>
     ·
-    <a href="https://github.com/cltn39/ERDB">Request Feature</a>
+    <a href="https://github.com/cltn39/JsWarmUp">Request Feature</a>
   </p>
 </p>
 
@@ -40,18 +40,11 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#built-with">User Story</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#roadmap">Activity Detail</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -62,55 +55,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ER:DB logo](./erbd/public/logo-black.png)
-
-Thanks to Nimble Neuron's constant effort to support the game, they have released the API that can be used to search their in-game datas such as user history, rank, and in-game-weapon stats
+To learn and understand more about JavaScript and its capabilities, exercise one actitivies a day for 30 days.
 
 User Story:
-* As an user can now search more detailed history of their favorite game data.
-* User friendly, and much more features to come soon.
+* As an user, I will code particular functions to achieve various functions that are availalbe in JavaScript.
+* As an usere, I will commit myself to finish one activities a day for total of 30 days.
 
+### Provided by
 
-### Built With
+* Wes bos
 
-This section is currently under development.
-<!-- * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [React](https://react.com) -->
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. You will need an API key from Nimble Neuron first.
-2. Clone the repo
-   ```sh
-   git clone https://github.com/cltn39/ERDB.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+<br><br>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -122,23 +77,21 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Activities detail
 
 This section is currently under development
 <!-- See the [open issues](link) for a list of proposed features (and known issues). -->
-
+1- Activity 01: JavaScirpt Drum Kit
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/cltn39/ERBD](https://github.com/cltn39/ERBD)
+Project Link: [https://github.com/cltn39/JsWarmUp](https://github.com/cltn39/JsWarmUp)
 
 
 
@@ -148,12 +101,6 @@ Project Link: [https://github.com/cltn39/ERBD](https://github.com/cltn39/ERBD)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
 
@@ -161,13 +108,13 @@ Project Link: [https://github.com/cltn39/ERBD](https://github.com/cltn39/ERBD)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[language-shield]: https://img.shields.io/github/languages/top/cltn39/ERDB?color=red&style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/top/cltn39/JsWarmUp?color=red&style=for-the-badge
 [version-shield]: https://img.shields.io/github/package-json/v/cltn39/ERDB?style=for-the-badge
 [version-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[issues-shield]: https://img.shields.io/github/issues-closed/cltn39/ERDB?color=yellow&style=for-the-badge
-[issues-url]: https://github.com/cltn39/ERDB/issues
+[issues-shield]: https://img.shields.io/github/issues-closed/cltn39/JsWarmUp?color=yellow&style=for-the-badge
+[issues-url]: https://github.com/cltn39/JsWarmUp/issues
 [license-shield]: https://img.shields.io/apm/l/vim-mode?style=for-the-badge
-[license-url]: https://github.com/cltn39/ERDB/blob/main/LICENSE.txt
+[license-url]: https://github.com/cltn39/JsWarmUp/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/webdev-chisoo-chris-song/
 [product-screenshot]: images/screenshot.png
