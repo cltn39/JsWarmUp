@@ -85,6 +85,8 @@ This section is currently under development
 
 2- Activity 02: Analog Clock made with JavaScript & CSS (02/03/2021)
 
+3- Activity 03: CSS variables and tricks (02/04/2021)
+
 <!-- LICENSE -->
 ## License
 
