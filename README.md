@@ -81,7 +81,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 This section is currently under development
 <!-- See the [open issues](link) for a list of proposed features (and known issues). -->
-1- Activity 01: JavaScirpt Drum Kit
+1- Activity 01: JavaScirpt Drum Kit (02/02/2021)
+
+2- Activity 02: Analog Clock made with JavaScript & CSS (02/03/2021)
 
 <!-- LICENSE -->
 ## License
