@@ -87,6 +87,8 @@ This section is currently under development
 
 3- Activity 03: CSS variables and tricks (02/04/2021)
 
+4- Activity 04: Array tests (02/05/2021)
+
 <!-- LICENSE -->
 ## License
 
