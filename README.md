@@ -91,6 +91,8 @@ This section is currently under development
 
 5- Activity 05: CSS flex exercise (02/08/2021)
 
+6- Activity 06: Type Ahead (02/09/2021)
+
 <!-- LICENSE -->
 ## License
 
