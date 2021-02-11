@@ -93,6 +93,8 @@ This section is currently under development
 
 6- Activity 06: Type Ahead (02/09/2021)
 
+7- Activity 07: Array tests part.2 (02/10/2021)
+
 <!-- LICENSE -->
 ## License
 
