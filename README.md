@@ -95,6 +95,8 @@ This section is currently under development
 
 7- Activity 07: Array tests part.2 (02/10/2021)
 
+8- Activity 08: Fun with HTMl5 Canvas (02/12/2021)
+
 <!-- LICENSE -->
 ## License
 
