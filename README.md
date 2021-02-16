@@ -97,6 +97,7 @@ This section is currently under development
 
 8- Activity 08: Fun with HTMl5 Canvas (02/12/2021)
 
+9- Activity 09: Dev Tools Domination (02/15/2021)
 <!-- LICENSE -->
 ## License
 
