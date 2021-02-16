@@ -82,22 +82,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 This section is currently under development
 <!-- See the [open issues](link) for a list of proposed features (and known issues). -->
 1- Activity 01: JavaScirpt Drum Kit (02/02/2021)
-
 2- Activity 02: Analog Clock made with JavaScript & CSS (02/03/2021)
-
 3- Activity 03: CSS variables and tricks (02/04/2021)
-
 4- Activity 04: Array tests (02/05/2021)
-
 5- Activity 05: CSS flex exercise (02/08/2021)
-
 6- Activity 06: Type Ahead (02/09/2021)
-
 7- Activity 07: Array tests part.2 (02/10/2021)
-
 8- Activity 08: Fun with HTMl5 Canvas (02/12/2021)
-
 9- Activity 09: Dev Tools Domination (02/15/2021)
+10- Activity 09: Checkboxes (02/16/2021)
+
 <!-- LICENSE -->
 ## License
 
